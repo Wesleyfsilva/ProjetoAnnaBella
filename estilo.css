@@ -1,0 +1,89 @@
+body{
+    background: url(imagens/fundo.png) #d2d2c1;
+    font: 16px arial,helvetica,sans-serif;
+}
+
+#principal{
+   
+    width: 100%;
+    
+    
+    
+}
+
+
+#menu{
+    background:#c5c5b2 ;
+    padding: 15px;
+    width: 100%;
+}
+
+#conteudo{
+    background: #e8e8d9;
+    padding:px ;
+   
+    
+
+}
+
+
+    
+ a {
+     color: #4b566a ;
+     text-decoration: none;
+     font-weight: bold;
+     padding: 20px;
+
+
+ }
+
+ .imagemtorra{
+     width:200px;
+ }
+
+
+
+
+img{
+    width: 100%;
+    
+    
+}
+
+#img2{
+    width: 50%;
+}
+
+
+#img3{
+    width: 55%;
+}
+
+#img4{
+    width: 55%;
+
+}
+
+#imgcontato{
+    width: 850px;
+}
+
+.imagemcampanha{
+
+    border: solid #c3c3ae 10px;
+
+
+}
+ .centralizar{
+     text-align: center;
+ }
+ 
+ .cite{
+     font-size: 13px;
+     font-style: italic; 
+    }
+
+    h1,h2,h3,h4{
+        color:rgb(48, 41, 41);
+        font-size: 1.2em;
+    }
